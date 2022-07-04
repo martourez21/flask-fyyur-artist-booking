@@ -10,4 +10,4 @@ SQLALCHEMY_TRACK_MODIFICATIONS = 'TRUE'
 
 
 # TODO IMPLEMENT DATABASE URL
-SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:postgres@localhost:5432/alx-t_projects'
+SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:password@localhost:xxxx/alx-t_projects'
